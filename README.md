@@ -1,7 +1,7 @@
 ## A self taught web developer and data analysis enthusiast sharing my learning journey 
 
 3rd year e-management / University of Algiers 3 <br/>
-Full time Sale Manager on [Youtube](https://www.youtube.com/@InspirationTuts) <br/>
+Full time Sale Manager on [InspirationTuts](https://www.youtube.com/@InspirationTuts) <br/>
 Currently learning more about data analysis , data extraction and Next.Js for Web Developing <br/>
 
 # 💻 Tech Stack:
