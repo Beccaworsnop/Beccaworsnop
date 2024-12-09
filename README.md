@@ -12,7 +12,7 @@
 
 
 # ⏳ GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beccaworsnop&show_icons=true&theme=darcula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beccaworsnop&show_icons=true&theme=darcula) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Beccaworsnop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beccaworsnop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
