@@ -2,7 +2,7 @@
 
  📜 3rd year e-management / University of Algiers 3 <br/>
  💼 Full time Sale Manager on [InspirationTuts](https://www.youtube.com/@InspirationTuts) <br/>
- ☕️ Currently learning more about data analysis , data extraction and Next.Js for Web Developing <br/>
+ ☕️ Currently learning data analysis and Next.Js for Web Developing <br/>
 
 ![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHB1cTFoNDJ6OHkwYWZoMDNxM2V6anV4emZqaXMycmE5Nmh3bHppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nkLC0LPNQSrVi6Bzb/giphy.gif)
 
